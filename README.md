@@ -1,61 +1,39 @@
-# 👋 Hi there! I'm Janco Nieuwoudt
+Hi 👋 My name is Janco Nieuwoudt
+================================
 
-🎓 3rd Year Bachelor of Computing Student at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za)  
-📍 Roodepoort, Gauteng, South Africa  
-📧 janconieuwoudt.werk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/janco-nieuwoudt)
+Software Engineer
+-----------------
 
----
+Some type of desciption about me
 
-## 👨‍💻 About Me
-
-I’m an innovative and passionate Software Engineer specializing in **React**, **Blazor**, **C#**, **JavaScript**, **SQL**, **HTML**, and **CSS**.
-
-Currently pursuing a Bachelor of Computing in Software Engineering with a strong academic record (avg. 79%). My foundation in **Mathematics**, **Physics**, and **Computer Applications Technology (CAT)**, combined with hands-on industry mentorship, has shaped me into a developer who bridges academic knowledge with real-world applications.
-
-Outside of coding, I proudly represent 🇿🇦 South Africa as a **Springbok Jukskei** player – reflecting discipline, teamwork, and dedication in all aspects of life.
-
----
-
-## 🧠 Skills & Technologies
-
-- Frontend: **React**, **Blazor**
-- Backend: **C#**, **JavaScript**
-- Database: **SQL**
-- Web: **HTML**, **CSS**
-- Tools: Git, Version Control, Agile Development
-
----
-
-## 💼 Experience
-
-**Software Development Trainee**  
-*Belgium Campus Alumni*  
-📅 Jan 2025 – Present  
-- Collaborated with industry professionals to build a software solution aligned with industry standards.  
-- Gained valuable exposure to software design, development practices, and version control.  
-- Bridged academic training with real-world applications.
-
----
-
-## 📚 Education
-
-**Bachelor of Computing in Software Engineering**  
-*Belgium Campus ITversity*  
-📅 Jan 2023 – Dec 2026  
-
-**High School: Hoërskool Jeugland**  
-📅 2018 – 2022  
-
----
-
-## 🌟 Fun Fact
-
-When I’m not coding, you’ll find me competing in **Jukskei** at a national level. It keeps me sharp, focused, and ready to tackle the next coding challenge!
-
----
-
-## 🚀 Let's Connect
-
-Feel free to reach out or explore my work on GitHub – I’m always open to collaboration, learning, and contributing to meaningful projects.
-
+*   🌍  I'm based in Roodepoort
+*   🖥️  See my portfolio at [Portfolio](http://portfoliolink)
+*   ✉️  You can contact me at [janconieuwoudt.werk@gmail.com](mailto:janconieuwoudt.werk@gmail.com)
+*   🚀  I'm currently working on [NexusForge](http://link)
+*   🧠  I'm learning REACT
+*   ⚡  something small### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/JancoNieuwoudt" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/janco-nieuwoudt/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/JancoNieuwoudt"><img src="https://github-readme-stats.vercel.app/api?username=JancoNieuwoudt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JancoNieuwoudt's GitHub stats" /></a><a
+                      href="http://www.github.com/JancoNieuwoudt"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=JancoNieuwoudt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/JancoNieuwoudt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancoNieuwoudt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
