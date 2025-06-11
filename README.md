@@ -33,7 +33,7 @@ I'm driven by a commitment to building innovative, user-focused solutions and ta
 <a
   href="http://www.github.com/JancoNieuwoudt"><img src="https://github-readme-stats.vercel.app/api?username=JancoNieuwoudt&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JancoNieuwoudt's GitHub stats" /></a>
 
-Random Dev Quote:
-
-"When the student is ready, the Stack Overflow answer will appear."
-- Code-fucius
+### Random Dev Quote:
+> *"When the student is ready, the Stack Overflow answer will appear."*
+> 
+> **~ Code-fucius**
