@@ -4,11 +4,11 @@ Hi 👋 I'm Janco Nieuwoudt
 Software Engineer
 -----------------
 
-🎓 I’m currently pursuing a Bachelor of Computing in Software Engineering at Belgium Campus ITversity, maintaining a 78% average. I’m actively seeking an internship or entry-level role that will allow me to apply my skills in real-world projects while continuing to grow professionally.
+I’m currently pursuing a Bachelor of Computing in Software Engineering at Belgium Campus ITversity, maintaining a 78% average. I’m actively seeking an internship or entry-level role that will allow me to apply my skills in real-world projects while continuing to grow professionally.
 
-💡 My passion for problem-solving through technology began with a strong foundation in Mathematics, Physics, and CAT. As a former head council member at Hoërskool Jeugland, I developed valuable leadership, organization, and communication skills that continue to shape my approach to software development.
+My passion for problem-solving through technology began with a strong foundation in Mathematics, Physics, and CAT. As a former head council member at Hoërskool Jeugland, I developed valuable leadership, organization, and communication skills that continue to shape my approach to software development.
 
-🧠 I’m driven by a commitment to building innovative, user-focused solutions and tackling real-world challenges with code. Outside of tech, I represent South Africa as a Springbok Jukskei player, which has instilled in me discipline, teamwork, and perseverance — all qualities I bring to the software world.
+I’m driven by a commitment to building innovative, user-focused solutions and tackling real-world challenges with code. Outside of tech, I represent South Africa as a Springbok Jukskei player, which has instilled in me discipline, teamwork, and perseverance — all qualities I bring to the software world.
 
 ### Skills 
 <p align="left">
