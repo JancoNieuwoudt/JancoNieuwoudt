@@ -1,6 +1,6 @@
 Hi 👋 I'm Janco Nieuwoudt
 ================================
-![Screenshot 2025-06-12 162053](https://github.com/user-attachments/assets/2c298f27-befd-4de0-8c5c-e39575c6484e)
+![Screenshot 2025-06-12 162636](https://github.com/user-attachments/assets/97789873-0e7f-4e16-982a-48b1e324eebb)
 
 I'm currently pursuing a Bachelor of Computing in Software Engineering at Belgium Campus ITversity, maintaining a 78% average. I'm actively seeking an internship or entry-level role that will allow me to apply my skills in real-world projects while continuing to grow professionally.
 
