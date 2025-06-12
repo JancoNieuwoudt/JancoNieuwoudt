@@ -1,4 +1,4 @@
-Hi 👋 I'm Janco Nieuwoudt
+Hi 👋
 ================================
 ![Screenshot 2025-06-12 162636](https://github.com/user-attachments/assets/97789873-0e7f-4e16-982a-48b1e324eebb)
 
